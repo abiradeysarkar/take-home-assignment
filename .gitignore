@@ -1,0 +1,9 @@
+# Ignore sensitive Terraform variable files
+terraform.tfvars
+terraform.tfstate
+terraform.tfstate.backup
+
+
+# Ignore backup files
+*.backup
+
